@@ -3,7 +3,7 @@ Repositório para desenvolvimento de site pessoal para centralização de inform
 
 TODO:
 
-- [] Página principal
-- [] Sobre mim
-- [] Projetos
-- [] Link para futuro blog
+- [ ] Página principal
+- [ ] Sobre mim
+- [ ] Projetos
+- [ ] Link para futuro blog
